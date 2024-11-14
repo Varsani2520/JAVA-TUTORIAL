@@ -1,6 +1,6 @@
 import Inheritance.SciCalc;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         SciCalc c = new SciCalc();
         int sum = c.Add(3, 5);

@@ -18,9 +18,9 @@ class Mobile {
 public class StaticConcept {
     public static void main(String[] args) {
 
-        Mobile ob = new Mobile();
-        ob.model = "aplle";
-        System.out.println(ob.model);
+        // Mobile ob = new Mobile();
+        // ob.model = "aplle";
+        // System.out.println(ob.model);
 
         // acess var without made a object
         Mobile.model = "Samsung";
